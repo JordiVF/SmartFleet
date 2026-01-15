@@ -21,7 +21,7 @@ Para ejecutar este proyecto en tu máquina local:
    -Ejecuta el script para crear las tablas y cargar los datos iniciales  
 
 3. Ejecutar:
-   -Abre SmartFleet.sln y presiona F5.  
+   -Abre SmartFleet.sln y ejecútalo (F5).  
    
    🔐 Acceso al Sistema  
    Usuario: admin  
