@@ -1,0 +1,14 @@
+﻿<Application x:Class="SmartFleet.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SmartFleet"
+             StartupUri="View/Login.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/View/Styles/ColoresInterfaz.xaml"/>
+                <ResourceDictionary Source="/View/Styles/EstiloBotones.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
