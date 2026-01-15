@@ -15,10 +15,10 @@ Para ejecutar este proyecto en tu máquina local:
    git clone [https://github.com/JordiVF/SmartFleet.git](https://github.com/JordiVF/SmartFleet.git)
 2. Crear la Base de Datos:
 
--Abre Visual Studio 2022
--Abre el archivo Database/SmartFleetDB.sql
--Conéctate a tu servidor local (localdb)\MSSQLLocalDB
--Ejecuta el script para crear las tablas y cargar los datos iniciales
+-Abre Visual Studio 2022  
+-Abre el archivo Database/SmartFleetDB.sql  
+-Conéctate a tu servidor local (localdb)\MSSQLLocalDB  
+-Ejecuta el script para crear las tablas y cargar los datos iniciales  
 
 3. Ejecutar:
    -Abre SmartFleet.sln y presiona F5.
